@@ -2,10 +2,11 @@
 ---
 @import "{{ site.theme }}";
 #header_wrap {
-background-image: url(https://raw.githubusercontent.com/digikeri/datapalooza/master/Datapalooza.jpg);
+background-image: url(https://raw.githubusercontent.com/digikeri/datapalooza/master/datapalooza_bl.jpg);
 background-repeat:no-repeat;
 background-position:center;
 padding-bottom:40px;
+  margin-left:80px;
 width: 1280px;
 height: 222px;
 }
