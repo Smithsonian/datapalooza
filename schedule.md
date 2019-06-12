@@ -1,4 +1,4 @@
-#Schedule
+# Schedule
 ### Date tbd everything TBD 
 *DRAFT*
 All times are EST (UTC -5)
